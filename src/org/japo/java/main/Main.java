@@ -21,9 +21,7 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        System.out.printf("Fecha de inicio del curso escolar:%02d/%02d/%04d\n",9,9,2019);
+        System.out.printf("Fecha de inicio del curso escolar:%02d/%02d/%04d\n", 9, 9, 2019);
     }
-   
 }
